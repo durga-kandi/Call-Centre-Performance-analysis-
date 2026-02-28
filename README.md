@@ -105,34 +105,15 @@ This dashboard helps answer:
 
 ---
 
+### 🧭 Performance Overview
+
+![Performance Overview](Performance_Overview.PNG)
+
+
+---
+
 ## 🔗 Live Dashboard
 
-Add your Power BI Service link below:
-
-[View Live Dashboard](PASTE_YOUR_POWERBI_SERVICE_LINK_HERE)
+[View Live Dashboard](https://app.powerbi.com/groups/me/reports/0619036c-7b2a-4293-8cd9-5a1e56afe312/8dc06beffd0a401c818e?experience=power-bi)
 
 ---
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open in Power BI Desktop.
-3. Use slicers to filter by date or month.
-4. Analyze KPI trends and agent performance dynamically.
-
----
-
-## 💼 Portfolio Value
-
-This project demonstrates:
-
-- Business KPI framework design  
-- Performance benchmarking logic  
-- Agent-level analytics  
-- Clean dashboard UI/UX principles  
-- Interview-ready BI storytelling  
-
-Suitable for:
-- Power BI Developer roles
-- Data Analyst roles
-- Business Intelligence positions
