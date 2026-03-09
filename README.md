@@ -114,6 +114,6 @@ This dashboard helps answer:
 
 ## 🔗 Live Dashboard
 
-[View Live Dashboard](https://app.powerbi.com/groups/me/reports/0619036c-7b2a-4293-8cd9-5a1e56afe312/8dc06beffd0a401c818e?experience=power-bi)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjEzMmFlMzMtNjE1ZC00YmI2LTlmNmQtY2UwZDUzZmMxODI1IiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
 ---
